@@ -20,7 +20,7 @@ Matrix support group:
 ![Matrix](https://img.shields.io/matrix/RemoteSupp:matrix.org)
 
 ## License
-Remote is provided under the MIT License, for more information you could go to [LICENSE](https://github.com/GTMF99/Remote/blob/main/README.md).
+Remote is provided under the MIT License, for more information you could go to [LICENSE](https://github.com/GTMF99/Remote/blob/main/LICENSE).
 
 ## Roadmap
 - [x] Choose palette and create logo accordingly.
